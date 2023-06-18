@@ -735,8 +735,7 @@ input {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: var(--icon-fill);
-  display: flex;
-  align-items: center;
+
 }
 .policy-text a {
   color: var(--primary-brand);
